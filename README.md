@@ -34,7 +34,6 @@ Hi, I'm [Innocent KPADE](#), a web and mobile app developer 👨🏻‍💻 from
 <br />
 <br />
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desphixs&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
